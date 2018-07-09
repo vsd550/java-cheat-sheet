@@ -74,7 +74,7 @@ System.out.println("Hello World");
 Notes
 - Every line of code we write in Java is part of something called Class. We will talk about Class later. 
 - First line defines a public class called HelloWorld. All the code in a class is between { and }.
-- When a program runs, Java should know which line of code has to be run first. public static void main(String[] args) is the first method that is run when a program is executed.
+- When a program runs, Java should know which line of code has to be run first. **public static void main(String[] args)** is the first method that is run when a program is executed.
 
 
 > Java, like any other programming language, is particular about syntax!!
